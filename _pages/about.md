@@ -4,10 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Hi! I'm [Vaibhav Balloli](https://vballoli.github.io/), final year undergraduate at BITS Pilani, Hyderabad Campus. Through this blog, I'm planning on tracking my journey in Reinforcement Learning through blog posts, summaries, cheat sheets and notebooks to help me and readers understand this topic better. Using various existing blogs, textbooks and youtube channels as my guide in curating posts here, I hope this helps!!
